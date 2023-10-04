@@ -47,6 +47,7 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Steven23X&theme=chartreuse-dark&layout=compact">
 </p>
 
+<!-- not working atm
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Steven23X&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&line_height=0" />
 </p>
@@ -54,3 +55,4 @@
 <p align="center">
 <img src = "https://github-profile-trophy.vercel.app/?username=Steven23X&theme=matrix&row=1">
 </p>
+-->
