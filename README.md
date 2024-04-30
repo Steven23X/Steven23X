@@ -3,8 +3,6 @@
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=steven23x&label=Views&color=green&style=flat" alt="steven23x" />
- <img src="https://badges.pufler.dev/repos/Steven23X"/>
- <img src="https://badges.pufler.dev/commits/monthly/Steven23X" />
 </p>
 
 <p align="center">
